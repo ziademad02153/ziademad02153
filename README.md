@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ziad Emad Allam</h1>
 
-<h2 align="center">Full Stack Developer | Python Expert</h2>
+<h2 align="center">Software Engineer & Automation Tester| Python Expert</h2>
 <br>
 
 <p align="center">
