@@ -32,7 +32,7 @@
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="48"/></a>
   </p>
 
-#### `🛠️ Technical Skills`
+#### ` Technical Skills`
 
   <p align="left">
     <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,cs,dotnet,react,nextjs,vue,angular,nodejs,express,fastapi,flask,php,html,css,tailwind,mongodb,postgres,mysql,sqlite,redis,aws,docker,git,github,postman,swagger,numpy,sklearn,tensorflow,pytorch,selenium,pytest&perline=10" />
