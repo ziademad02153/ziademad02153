@@ -20,7 +20,7 @@
       <img src="https://img.shields.io/badge/My GitHub-00307A?style=flat-square&logo=github&logoColor=white" style="height:32px; object-fit:contain;"/></a>
   </p>
 
-  #### `📤 Connect & Professional Links`
+  #### ` Connect & Professional Links`
   <p align="left">
     <a href="mailto:ziademadbts@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="48"/></a> &nbsp;
@@ -38,12 +38,12 @@
     <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,cs,dotnet,react,nextjs,vue,angular,nodejs,express,fastapi,flask,php,html,css,tailwind,mongodb,postgres,mysql,sqlite,redis,aws,docker,git,github,postman,swagger,numpy,sklearn,tensorflow,pytorch,selenium,pytest&perline=10" />
   </p>
 
-#### `💼 Work Experience`
-- **Full-Stack Developer** at Upwork (Nov 2022 - Present) - 10+ MERN projects, 4.8⭐ rating
+#### ` Work Experience`
+- **Full-Stack Developer** at Upwork (Nov 2022 - Present) - 10+ MERN projects, 4.8 rating
 - **R&D Software Engineer** at Elaraby Group (Jun 2024 - Present) - Python/C# QA tooling
 - **Software Engineer** at OpenQQuantify (Feb 2025 - Present) - LLM-powered features
 
-#### `🏆 GitHub Trophies`
+#### ` GitHub Trophies`
   <p align="left">
   
   ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=ziademad02153&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
@@ -62,15 +62,15 @@
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </p>
 
-#### `📊 Key Achievements`
-- 🚀 **10+ Full-Stack Projects** delivered with 4.8 average satisfaction rating
-- 📈 **15% increase** in user engagement through analytics dashboards
-- ⚡ **70% reduction** in manual deployment time via CI/CD pipelines
-- 🤖 **30% automation** of customer support queries using LLM features
-- 💰 **$5,000/year saved** by replacing LabVIEW with Python tooling
-- 🎯 **86% test automation** achieved in embedded systems testing
+#### ` Key Achievements`
+-  **10+ Full-Stack Projects** delivered with 4.8 average satisfaction rating
+-  **15% increase** in user engagement through analytics dashboards
+-  **70% reduction** in manual deployment time via CI/CD pipelines
+-  **30% automation** of customer support queries using LLM features
+-  **$5,000/year saved** by replacing LabVIEW with Python tooling
+-  **86% test automation** achieved in embedded systems testing
 
-#### `🎓 Education & Certifications`
+#### ` Education & Certifications`
 - **Bachelor's** in Computer and Information Systems - Tanta University (2023-2027)
 - **Diploma** in Data Analysis - AUC (2024-2025) - GPA 3.8
 - **CS50** Harvard University
