@@ -23,7 +23,7 @@
   #### ` Connect & Professional Links`
   <p align="left">
     <a href="mailto:ziademadbts@gmail.com">
-      <img alt="Email Ziad" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="48"/></a> &nbsp;
+      <img alt="Email Ziad" src="assets/gmail.svg" height="48"/></a> &nbsp;
     <a href="https://www.linkedin.com/in/ziad-emad-allam-02153z">
       <img alt="LinkedIn profile" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48"/></a> &nbsp;
     <a href="https://wa.me/201140462022">
