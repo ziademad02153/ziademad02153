@@ -1,115 +1,87 @@
-<p align="center">
-  <img src="assets/engineering-banner.svg" width="100%" alt="Ziad Emad Allam — AI Automation and Full-Stack Engineer. Building AI products, web systems, and industrial test automation." />
-</p>
+<h1 align="center">Hi, I'm Ziad Emad Allam</h1>
+
+<h2 align="center">AI Automation &amp; Full-Stack Engineer</h2>
+<br>
 
 <p align="center">
-  <a href="https://zedx-ai.tech"><strong>ZEDX AI</strong></a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/ziad-emad-allam-02153z">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:ziademadbts@gmail.com">Email</a> &nbsp; / &nbsp;
-  <a href="assets/ziad-emad-allam-resume.pdf">Resume</a>
-</p>
+    <a href="https://www.google.com.eg/search?q=Ziad+Emad+Allam"> <!-- Google Me -->
+      <img alt="Animated developer introduction" src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Automation%20Engineer;Full-Stack%20Developer;Founder%20of%20ZEDX%20AI;Python%20Test%20Automation&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
+  </p>
 
-I build software that connects **AI, full-stack products, and real-world automation**. I'm a software engineer based in Egypt with 3+ years of experience, the founder and solo developer of **ZEDX AI**, and an R&D software engineer working on Python automation for embedded-firmware testing.
+  <p>
+    <a href="https://www.google.com.eg/search?q=ziademad02153"> <!-- Google Me -->
+      <img alt="Profile view count" src="https://komarev.com/ghpvc/?username=ziademad02153&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
+  </p>
 
-My work spans conversational AI, web applications, and hardware-in-the-loop systems: from a user's microphone to an interview report, and from a physical sensor to an automated diagnostic result.
+  <p>
+    <a href="https://github.com/ziademad02153/ziademad02153/blob/main/assets/ziad-emad-allam-resume.pdf">
+      <img alt="Download my CV" src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://github.com/ziademad02153">
+      <img alt="Visit my GitHub profile" src="https://img.shields.io/badge/My GitHub-00307A?style=flat-square&logo=github&logoColor=white" style="height:32px; object-fit:contain;"/></a>
+  </p>
 
-### Impact
+  #### ` Connect & Professional Links`
+  <p align="left">
+    <a href="mailto:ziademadbts@gmail.com">
+      <img alt="Email Ziad" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="48"/></a> &nbsp;
+    <a href="https://www.linkedin.com/in/ziad-emad-allam-02153z">
+      <img alt="LinkedIn profile" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48"/></a> &nbsp;
+    <a href="https://wa.me/201140462022">
+      <img alt="WhatsApp contact" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="48"/></a> &nbsp;
+    <a href="https://github.com/ziademad02153">
+      <img alt="GitHub profile" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="48"/></a>
+  </p>
 
-| Product reach | Industrial automation | Client delivery |
-| :--- | :--- | :--- |
-| **20,000+ ZEDX users** | **$70,000 annual tooling savings** | **10+ full-stack projects** |
-| 490 premium subscribers · 2 B2B customers | Firmware test accuracy: 42% → 91% | 4.8/5 client satisfaction |
+#### ` Technical Skills`
 
-### Selected engineering
+  <p align="left">
+    <img alt="Technical skills" src="https://skillicons.dev/icons?i=python,js,ts,cpp,cs,dotnet,react,nextjs,vue,angular,nodejs,express,fastapi,flask,php,html,css,tailwind,mongodb,postgres,mysql,sqlite,redis,aws,docker,git,github,postman,swagger,numpy,sklearn,tensorflow,pytorch,selenium,pytest&perline=10" />
+  </p>
 
-#### 01 / ZEDX AI — personalized interview practice
+#### ` Work Experience`
+- **R&D Software Engineer** at Elaraby Group (Jun 2024 - Present) - Python HIL testing, DAQ pipelines, signal analytics, and automated defect reporting.
+- **Founder & Solo Developer** of [ZEDX AI](https://zedx-ai.tech) - Personalized interview practice in 30 languages, voice pipelines, scorecards, and PDF reports.
+- **Full-Stack Developer** on Upwork (Nov 2022 - Nov 2025) - 10+ MERN projects for international clients, with a 4.8/5 satisfaction rating.
 
-**Founder & solo developer** · [Live product](https://zedx-ai.tech) · [Repository](https://github.com/ziademad02153/ZEDX-AI-Simulator)
+#### ` GitHub Trophies`
+![GitHub profile trophies](https://github-profile-trophy-ahmed.vercel.app/?username=ziademad02153&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
+<br>
 
-Interview practice in **30 languages**, tailored to a candidate's CV, target role, and job description. Follow-up questions respond to the candidate's answers; structured evaluations produce scorecards and PDF reports.
+  <p align="left">
+    <img alt="Most used programming languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziademad02153&layout=compact&langs_count=8&theme=highcontrast&hide_border=true" height="180"/>
+  </p>
 
-- Built the voice pipeline across voice activity detection, speech recognition, streamed LLM responses, and speech synthesis.
-- Implemented provider failover, typed evaluation outputs, and personalized interview context.
-- Applied database access controls and safeguards for untrusted resume content.
+  <p align="left">
+    <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=ziademad02153&theme=highcontrast&hide_border=true" height="180"/>
+  </p>
 
-`Next.js` `React` `TypeScript` `Supabase` `Groq` `STT / TTS` `SSE`
+  <p align="left">
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </p>
 
-#### 02 / BLDC motor testing — hardware-in-the-loop automation
+#### ` Key Achievements`
+- **20,000+ users**, **490 premium subscribers**, and **2 B2B customers** on ZEDX AI.
+- **$70,000/year saved** by replacing proprietary and LabVIEW tooling with Python automation.
+- Firmware test accuracy improved from **42% to 91%**.
+- BLDC HIL framework processing **8-channel, 10 kHz telemetry**, with state machines and **12 industrial fault-tree protocols**.
+- Heater and microwave test coverage increased from **40% to 86%**.
+- **10+ full-stack projects** delivered with **4.8/5** client satisfaction.
+- **15% increase** in engagement through analytics dashboards.
+- **70% reduction** in manual deployment time through CI/CD pipelines.
 
-[Repository](https://github.com/ziademad02153/Sharp-VE-BLDC--app-v2)
+#### ` Education & Certifications`
+- **B.Sc. Computer and Information Systems** - HICMIT, Tanta (Oct 2023 - Jun 2027, expected) - GPA 3.5.
+- **Data Analysis & Visualization** - The American University in Cairo (May 2025 - Jan 2026) - CDAV101 final grade: A.
+- **GCI World Data Science** - University of Tokyo, Matsuo-Iwasawa Laboratory (Apr - Aug 2026) - Passed final assessment.
+- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**.
+- **DataCamp Certified Python Data Associate**.
+- **micro1 Certified Software Engineer**.
+- **Microsoft course completion certificates** - Azure OpenAI, Semantic Kernel agents, Azure services, Microsoft Graph, and TypeScript.
+- **Languages:** Arabic (Native) | English (C1).
 
-A Python test framework for inverter washing-machine firmware, connecting **8-channel, 10 kHz DAQ telemetry** with real-time analysis, oscilloscope views, and automated Excel diagnostics.
-
-- Used finite state machines and signal processing to validate motor agitation and closed-loop RPM behavior.
-- Implemented 12 industrial fault-tree protocols and replaced proprietary tooling, saving **$40,000/year**.
-
-`Python` `PyQt` `nidaqmx` `NumPy` `SciPy` `asyncio`
-
-#### 03 / Heater & microwave systems — automated diagnostics
-
-[Water-heater repository](https://github.com/ziademad02153/local-automation-wh-iec-app) · [Microwave repository](https://github.com/ziademad02153/local-automation-Microwave-gril-app)
-
-Migrated legacy LabVIEW test lines to Python, combining FFT-based analysis and predictive models with automated diagnostics. Reduced annual tooling costs by **$30,000** and increased test coverage from **40% to 86%**.
-
-`Python` `PyQt6` `Pandas` `SciPy` `DAQ` `Docker`
-
-### Engineering toolkit
-
-| Area | Tools & methods |
-| :--- | :--- |
-| **Languages** | Python · TypeScript · JavaScript · SQL |
-| **Web products** | React · Next.js · Tailwind CSS · Framer Motion |
-| **Backend & APIs** | Node.js · Express · FastAPI · Flask · REST · WebSockets · JWT / RBAC |
-| **AI systems** | LLM APIs · prompt engineering · STT / TTS pipelines · structured outputs |
-| **Data & delivery** | PostgreSQL · Supabase · MySQL · SQLite · AWS · Docker · CI/CD |
-| **Test automation** | HIL · DAQ · DSP / FFT · NumPy · SciPy · PyQt / PySide · state machines |
-
-### Experience
-
-**R&D Software Engineer · Elaraby Group**  
-June 2024 – Present
-
-Built Python HIL test harnesses and DAQ pipelines across washing-machine, water-heater, and microwave product lines. Replaced proprietary and LabVIEW tooling, and integrated Dassault 3DEXPERIENCE for automated defect reporting.
-
-**Full-Stack Developer · Freelance / Upwork**  
-November 2022 – November 2025
-
-Delivered MERN applications for international clients. Built analytics dashboards that improved engagement by 15% and CI/CD pipelines that reduced manual deployment time by 70%.
-
-<details>
-<summary><strong>Education, certifications & languages</strong></summary>
-
-#### Education
-
-- **B.Sc. Computer and Information Systems — HICMIT, Tanta**  
-  October 2023 – June 2027 (expected) · GPA 3.5
-- **Data Analysis & Visualization — The American University in Cairo**  
-  May 2025 – January 2026 · CDAV101 final grade: A
-- **GCI World Data Science — University of Tokyo, Matsuo-Iwasawa Laboratory**  
-  April – August 2026 · Passed final assessment
-
-#### Selected credentials
-
-- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
-- DataCamp Certified Python Data Associate
-- micro1 Certified Software Engineer
-- Microsoft course completion certificates covering Azure OpenAI, Semantic Kernel agents, Azure services, Microsoft Graph, and TypeScript
-
-**Languages:** Arabic (native) · English (C1)
-
-</details>
-
-### GitHub achievements
-
-<p>
-  <a href="https://github.com/ziademad02153?achievement=quickdraw&amp;tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="56" height="56" alt="Quickdraw — earned GitHub achievement" /></a>
+#### ` GitHub Achievements`
+<p align="left">
+  <a href="https://github.com/ziademad02153?achievement=quickdraw&amp;tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="56" height="56" alt="Quickdraw - earned GitHub achievement" /></a>
   &nbsp;
-  <a href="https://github.com/ziademad02153?achievement=yolo&amp;tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="56" height="56" alt="YOLO — earned GitHub achievement" /></a>
+  <a href="https://github.com/ziademad02153?achievement=yolo&amp;tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="56" height="56" alt="YOLO - earned GitHub achievement" /></a>
 </p>
-
-[View achievement details](https://github.com/ziademad02153?tab=achievements)
-
----
-
-**Let's build something useful.**  
-For AI products, full-stack engineering, or test automation: [ziademadbts@gmail.com](mailto:ziademadbts@gmail.com)
