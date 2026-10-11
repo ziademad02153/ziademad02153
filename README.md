@@ -10,7 +10,7 @@
 
   <p>
     <a href="https://www.google.com.eg/search?q=ziademad02153"> <!-- Google Me -->
-      <img alt="Profile view count" src="https://komarev.com/ghpvc/?username=ziademad02153&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
+      <img alt="Profile view count" src="https://komarev.com/ghpvc/?username=ziademad02153&amp;label=Profile%20views&amp;color=3010a0&amp;style=flat" style="height:26px; object-fit:contain;"/></a>
   </p>
 
   <p>
