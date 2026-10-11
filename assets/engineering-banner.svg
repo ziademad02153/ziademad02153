@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ziad Emad Allam — AI Automation &amp; Full-Stack Engineer</title>
+  <desc id="desc">A custom engineering portfolio banner with a dark navy background, cyan signal paths, and a diagram connecting AI products, web systems, and test automation.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#091321"/><stop offset="1" stop-color="#111f32"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#263d53" stroke-width=".6" opacity=".55"/></pattern>
+    <linearGradient id="signal"><stop stop-color="#5ce0df"/><stop offset="1" stop-color="#b4f475"/></linearGradient>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="24" fill="url(#grid)"/>
+  <path d="M48 43H1232" stroke="#30435a"/>
+  <circle cx="54" cy="25" r="4" fill="#64e4dc"/>
+  <text x="68" y="30" fill="#94a8be" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">ZIAD / ENGINEERING PORTFOLIO</text>
+  <text x="1230" y="30" text-anchor="end" fill="#94a8be" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">EGYPT</text>
+  <rect x="50" y="85" width="4" height="183" rx="2" fill="url(#signal)"/>
+  <text x="76" y="119" fill="#65e5dd" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="3">AI AUTOMATION &amp; FULL-STACK ENGINEER</text>
+  <text x="73" y="181" fill="#f1f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="57" font-weight="700" letter-spacing="-1.5">Ziad Emad Allam</text>
+  <text x="76" y="220" fill="#b4c4d7" font-family="Segoe UI,Arial,sans-serif" font-size="22">Building AI products.</text>
+  <text x="76" y="253" fill="#b4c4d7" font-family="Segoe UI,Arial,sans-serif" font-size="22">Engineering real-world automation.</text>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <path d="M864 124V245M864 184H824M864 124H902M864 245H902" fill="none" stroke="url(#signal)" stroke-width="2"/>
+    <circle cx="824" cy="184" r="17" fill="#17374a" stroke="#5ce0df"/>
+    <path d="M817 184H831M824 177V191" stroke="#5ce0df" stroke-width="2"/>
+    <rect x="902" y="96" width="306" height="58" rx="10" fill="#142a3d" stroke="#325168"/>
+    <text x="923" y="121" fill="#69e5dd" font-size="12" letter-spacing="1.5">01 / AI PRODUCTS</text>
+    <text x="923" y="141" fill="#dfe9f5" font-size="16">Voice · LLMs · personalized systems</text>
+    <path d="M864 184H902" stroke="#72dcd0" stroke-width="2"/>
+    <rect x="902" y="165" width="306" height="58" rx="10" fill="#142a3d" stroke="#325168"/>
+    <text x="923" y="190" fill="#69e5dd" font-size="12" letter-spacing="1.5">02 / WEB SYSTEMS</text>
+    <text x="923" y="210" fill="#dfe9f5" font-size="16">React · Next.js · Python · APIs</text>
+    <rect x="902" y="234" width="306" height="58" rx="10" fill="#142a3d" stroke="#325168"/>
+    <text x="923" y="259" fill="#b4f475" font-size="12" letter-spacing="1.5">03 / TEST AUTOMATION</text>
+    <text x="923" y="279" fill="#dfe9f5" font-size="16">HIL · DAQ · signal processing</text>
+  </g>
+  <path d="M76 316H1208" stroke="#30435a"/>
+  <text x="76" y="341" fill="#8fa4bb" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="1.5">FOUNDER OF ZEDX AI</text>
+  <text x="1208" y="341" text-anchor="end" fill="#8fa4bb" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="1.5">PYTHON / TYPESCRIPT / SYSTEMS</text>
+</svg>
