@@ -44,7 +44,7 @@
 - **Full-Stack Developer** on Upwork (Nov 2022 - Nov 2025) - 10+ MERN projects for international clients, with a 4.8/5 satisfaction rating.
 
 #### ` GitHub Trophies`
-![GitHub profile trophies](https://github-profile-trophy-ahmed.vercel.app/?username=ziademad02153&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
+![GitHub profile trophies](https://github-trophies.devomb.com/?username=ziademad02153&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
 <br>
 
   <p align="left">
